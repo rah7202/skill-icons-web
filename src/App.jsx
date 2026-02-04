@@ -13,7 +13,7 @@ function App() {
         </div>
 
         <div class="flex sm:flex-row flex-col mt-4">
-          <a href="https:/github.com/rah7202/skill-icons-api"
+          <a href="https://github.com/rah7202/skill-icons-api"
             target="_blank"
             class="mt-2 bg-white overflow-hidden shadow rounded-lg p-6 mx-2 flex-1 hover:-translate-y-1 transform transition cursor-pointer">
             <h2 class="text-2xl leading-7 font-semibold flex items-center">
