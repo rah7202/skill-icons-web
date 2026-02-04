@@ -15,6 +15,7 @@ function App() {
         <div class="flex sm:flex-row flex-col mt-4">
           <a href="https://github.com/rah7202/skill-icons-api"
             target="_blank"
+            rel="noopener noreferrer"
             class="mt-2 bg-white overflow-hidden shadow rounded-lg p-6 mx-2 flex-1 hover:-translate-y-1 transform transition cursor-pointer">
             <h2 class="text-2xl leading-7 font-semibold flex items-center">
               Get Started <span class="rounded-full bg-blue-500 px-2 ml-2 text-sm text-white">New</span>
